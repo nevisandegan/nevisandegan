@@ -6,7 +6,7 @@
   My main language is JavaScript
 </p> -->
 <h3  align="left">Connect with me: <a href="mailto:nevisandehgan@gmail.com">nevisandehgan@gmail.com</a> </h3>
-
+<h3>
 <p>
   React projects : <a href="https://github.com/nevisandegan/portfolio">portfolio</a>
   <a href="https://github.com/nevisandegan/worldwise">worldwise</a>
@@ -15,11 +15,15 @@
   <a href="https://github.com/nevisandegan/healthy-diet-update">healthy-diet</a>
   <a href="https://github.com/nevisandegan/Contact-manager-app">contact-manager</a>
 </p>
-<p>
+  </h3>
+  <h3><p>
   Design projects & js : <a href="https://github.com/nevisandegan/healthy-diet-website-">healthy-diet</a>
   <a href="https://github.com/nevisandegan/filmnet">filmnet</a>
   <a href="https://github.com/nevisandegan/dice-game">dice-game</a>
 </p>
+  </h3>
+
+<p>other old projects ... :</p>
 <p>
   AI & python : <a href="https://github.com/nevisandegan/Image-clustering">Image-clustering</a>
   <a href="https://github.com/nevisandegan/Salary-classification">Salary-classification</a>
