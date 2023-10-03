@@ -19,13 +19,13 @@
   <a href="https://github.com/nevisandegan/healthy-diet-update">healthy-diet</a>
   <a href="https://github.com/nevisandegan/Contact-manager-app">contact-manager</a>
 </p>
-  </h3>
-  <h3><p>
+  <p>
   Design projects & js : <a href="https://github.com/nevisandegan/healthy-diet-website-">healthy-diet</a>
   <a href="https://github.com/nevisandegan/filmnet">filmnet</a>
   <a href="https://github.com/nevisandegan/dice-game">dice-game</a>
 </p>
   </h3>
+
 
 <p>other old projects ... :</p>
 <p>
