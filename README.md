@@ -9,6 +9,9 @@
 </p>
 <p>
   React projects : <a href="https://github.com/nevisandegan/portfolio">portfolio</a>
+  <a href="https://github.com/nevisandegan/worldwise">worldwise</a>
+  <a href="https://github.com/nevisandegan/react-quiz">react quiz</a>
+  <a hrfe="https://github.com/nevisandegan/split-eat">split eat</a>
   <a href="https://github.com/nevisandegan/Contact-manager-app">contact manager</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
