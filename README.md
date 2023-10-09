@@ -12,7 +12,9 @@
 </p>
 <h3>
 <p>
-  React projects : <a href="https://github.com/nevisandegan/portfolio">portfolio</a>
+  React projects :
+  <a href="https://github.com/nevisandegan/fast-pizza">fast-pizza</a>
+  <a href="https://github.com/nevisandegan/portfolio">portfolio</a>
   <a href="https://github.com/nevisandegan/worldwise">worldwise</a>
   <a href="https://github.com/nevisandegan/react-quiz">react-quiz</a>
   <a href="https://github.com/nevisandegan/split-eat">split-eat</a>
