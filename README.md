@@ -11,7 +11,7 @@
   <a href="mailto:nevisandehgan@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmial" height="30" width="40" /></a>
 </p>
 <h3>
-  <p>vercel  project : <a target="blank" href=https://hotel-nevisandegan.vercel.app/>hotel</a></p>
+  <p>vercel  project : <a target="_blank" href=https://hotel-nevisandegan.vercel.app/>hotel</a></p>
 <p>
   React projects :
    <a href="https://github.com/nevisandegan/Hotel">hotel</a>
