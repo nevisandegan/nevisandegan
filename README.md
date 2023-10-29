@@ -14,13 +14,13 @@
   <p>vercel  project : <a href="https://hotel-nevisandegan.vercel.app"  target="_blank">hotel</a></p>
 <p>
   React projects :
-   <a href="https://github.com/nevisandegan/Hotel">hotel</a>
-  <a href="https://github.com/nevisandegan/fast-pizza">fast-pizza</a>
-  <a href="https://github.com/nevisandegan/portfolio">portfolio</a>
-  <a href="https://github.com/nevisandegan/worldwise">worldwise</a>
-  <a href="https://github.com/nevisandegan/react-quiz">react-quiz</a>
-  <a href="https://github.com/nevisandegan/split-eat">split-eat</a>
-  <a href="https://github.com/nevisandegan/healthy-diet-update">healthy-diet</a>
+   <a href="https://github.com/nevisandegan/Hotel">hotel//</a>
+  <a href="https://github.com/nevisandegan/fast-pizza">fast-pizza//</a>
+  <a href="https://github.com/nevisandegan/portfolio">portfolio//</a>
+  <a href="https://github.com/nevisandegan/worldwise">worldwise//</a>
+  <a href="https://github.com/nevisandegan/react-quiz">react-quiz//</a>
+  <a href="https://github.com/nevisandegan/split-eat">split-eat//</a>
+  <a href="https://github.com/nevisandegan/healthy-diet-update">healthy-diet//</a>
   <a href="https://github.com/nevisandegan/Contact-manager-app">contact-manager</a>
 </p>
   <p>
