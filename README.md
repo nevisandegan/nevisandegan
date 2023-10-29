@@ -13,7 +13,7 @@
 <h3>
 <p>
   React projects :
-   <a href="https://hotel-nevisandegan.vercel.app">hotel</a>
+   <a href="https://github.com/nevisandegan/Hotel">hotel</a>
   <a href="https://github.com/nevisandegan/fast-pizza">fast-pizza</a>
   <a href="https://github.com/nevisandegan/portfolio">portfolio</a>
   <a href="https://github.com/nevisandegan/worldwise">worldwise</a>
