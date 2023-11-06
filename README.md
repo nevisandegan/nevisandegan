@@ -26,9 +26,10 @@
   <a href="https://github.com/nevisandegan/Contact-manager-app">contact-manager</a>
 </p>
   <p>
-  Design projects & js : <a href="https://github.com/nevisandegan/healthy-diet-website-">healthy-diet</a>
-  <a href="https://github.com/nevisandegan/filmnet">filmnet</a>
-  <a href="https://github.com/nevisandegan/dice-game">dice-game</a>
+  Design projects & js : <a href="https://github.com/nevisandegan/healthy-diet-website-">healthy-diet//</a>
+     <a href="https://github.com/nevisandegan/camp">camp//</a>
+  <a href="https://github.com/nevisandegan/filmnet">filmnet//</a>
+  <a href="https://github.com/nevisandegan/dice-game">dice-game//</a>
 </p>
   </h3>
 
