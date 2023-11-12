@@ -11,6 +11,7 @@
 </p>
 <h3>
   <p>vercel  project(usually with vpn) : <a href="https://hotel-nevisandegan.vercel.app"  target="_blank">hotel  // </a>
+    <a href="https://note-nevisandegan.vercel.app"  target="_blank">note  // </a>
    <a href="https://fastpizza-nevisandegan.vercel.app"  target="_blank">fastpizza  // </a>
   
   </p>
