@@ -10,7 +10,7 @@
   <a href="mailto:nevisandehgan@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmial" height="30" width="40" /></a>
 </p>
 <h3>
-  <p>vercel  project(usually with vpn) : <a href="https://hotel-nevisandegan.vercel.app"  target="_blank">hotel  // </a>
+  <p>vercel (usually with vpn) : <a href="https://hotel-nevisandegan.vercel.app"  target="_blank">hotel  // </a>
     <a href="https://note-nevisandegan.vercel.app"  target="_blank">note  // </a>
    <a href="https://fastpizza-nevisandegan.vercel.app"  target="_blank">fastpizza  // </a>
   
